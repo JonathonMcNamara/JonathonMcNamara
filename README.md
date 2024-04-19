@@ -27,6 +27,14 @@
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Located in San Jose.
 
+- :telescope: I’m currently working on Data Structures and Algorithims, as well as revamping some old projects.
+
+- :seedling: Exploring Technical Content Writing
+
+- :zap: In my free time, I solve problems on LeetCode, code projects, and do some gaming.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+
 ### 🕵️‍♂️ About Me :
 
 
